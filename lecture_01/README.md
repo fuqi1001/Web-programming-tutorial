@@ -1,0 +1,7 @@
+- Basic Syntax and Strings
+- Booleans and Equality
+- Numbers
+- Functions in JavaScript
+- Functional Scope in JavaScript
+- Objects in JavaScript
+- Arrays in JavaScript
