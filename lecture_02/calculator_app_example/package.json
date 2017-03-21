@@ -1,0 +1,15 @@
+{
+  "name": "calculator_app_example",
+  "version": "1.0.0",
+  "description": "calculator app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qi fu <cs.qifu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "1.0.0"
+  }
+}
